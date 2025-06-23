@@ -2,7 +2,7 @@
 
 ### Hola, soy Diego Rodríguez Méndez 👋
 
-Soy desarrollador de aplicaciones multiplataforma con formación superior en Desarrollo de Aplicaciones Multiplataforma (DAM). Actualmente desarrollo aplicaciones móviles con Flutter y SQLite, y tengo experiencia con Unity y C#.
+Soy desarrollador de aplicaciones multiplataforma con formación superior en Desarrollo de Aplicaciones Multiplataforma (DAM). Actualmente desarrollo aplicaciones móviles con Flutter y SQLite, y tengo experiencia con Unity, C# y Eclipse.
 
 Busco oportunidades para aplicar y seguir creciendo como desarrollador móvil y software engineer.
 
@@ -10,12 +10,13 @@ Busco oportunidades para aplicar y seguir creciendo como desarrollador móvil y 
 
 ### Formación y habilidades clave
 
-- Formación profesional superior DAM completa  
-- Desarrollo móvil con Flutter (Dart) y gestión de bases de datos SQLite  
-- Experiencia en desarrollo con Unity y programación en C#  
-- Conocimientos en JavaScript, Java, SQL y metodologías ágiles  
-- Uso habitual de IDEs como Android Studio, Visual Studio Code y Visual Studio  
-- Control de versiones con Git y colaboración en entornos de desarrollo profesional  
+- 🎓 Formación profesional superior DAM completa  
+- 📱 Desarrollo móvil con Flutter (Dart) y gestión de bases de datos SQLite  
+- 🎮 Experiencia en desarrollo con Unity y programación en C#  
+- 💻 Uso de Eclipse para proyectos Java y desarrollo de software  
+- 🌐 Conocimientos en JavaScript, Java, SQL y metodologías ágiles  
+- 🛠️ Uso habitual de IDEs como Android Studio, Visual Studio Code, Visual Studio y Eclipse  
+- 🔄 Control de versiones con Git y colaboración en entornos profesionales  
 
 ---
 
@@ -47,6 +48,7 @@ Busco oportunidades para aplicar y seguir creciendo como desarrollador móvil y 
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white">
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </span>
 
@@ -56,9 +58,9 @@ Busco oportunidades para aplicar y seguir creciendo como desarrollador móvil y 
 
 Puedes encontrarme en:
 
-- LinkedIn: [tu-linkedin-aqui](https://www.linkedin.com/in/tuusuario)  
-- Email: tu-email@ejemplo.com  
-- GitHub: [https://github.com/DiegoRodriguezMendez](https://github.com/DiegoRodriguezMendez)  
+- LinkedIn: [tu-linkedin-aqui](https://www.linkedin.com/in/diego-rodr%C3%ADguez-m%C3%A9ndez-034b1a36b/)  
+- Email: Dierodmenjob@ejemplo.com  
+- GitHub: [https://github.com/DiegoRodriguezMendez](https://github.com/Dierodmen)  
 
 ---
 
