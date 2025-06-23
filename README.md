@@ -58,9 +58,9 @@ Busco oportunidades para aplicar y seguir creciendo como desarrollador móvil y 
 
 Puedes encontrarme en:
 
-- LinkedIn: [tu-linkedin-aqui](https://www.linkedin.com/in/diego-rodr%C3%ADguez-m%C3%A9ndez-034b1a36b/)  
-- Email: Dierodmenjob@ejemplo.com  
-- GitHub: [https://github.com/DiegoRodriguezMendez](https://github.com/Dierodmen)  
+- LinkedIn: [https://www.linkedin.com/in/diego-rodr%C3%ADguez-m%C3%A9ndez-034b1a36b/](https://www.linkedin.com/in/diego-rodr%C3%ADguez-m%C3%A9ndez-034b1a36b/)  
+- Email: Dierodmenjob@gmail.com  
+- GitHub: [https://github.com/Dierodmen](https://github.com/Dierodmen)  
 
 ---
 
